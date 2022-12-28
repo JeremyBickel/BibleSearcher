@@ -14,8 +14,7 @@ Analytics, Parsing and Organization of God's Special Book for the Purpose of Und
 -Each verse is measured against all other verses for relatedness based on the number of phrases they share
 
 5. Word Categories
--Words (starting with the most frequent) have been sorted into categories as I saw fit, but some were iffy,
-- and I might not have been consistent. You might have different ideas.
+-Words (starting with the most frequent) have been sorted into categories as I saw fit, but some were iffy, and I might not have been consistent. You might have different ideas.
 
 6. Synonyms
 -Preliminary work from Moby
