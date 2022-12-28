@@ -11,7 +11,8 @@ Analytics, Parsing and Organization of God's Special Book for the Purpose of Und
 -Similar to Phrasal Concordance but each phrase is the translation of a Strong's number
 
 4. Verse Relatedness by Phrase Similarity
--Each verse is measured against all other verses for relatedness based on the number of phrases they share
+-Each verse is measured against all other verses for relatedness based on the number of phrases they share.
+-There's a mechanism to filter out phrases that occur more than some configurable limit in order to get at more meaningful phrases.
 
 5. Word Categories
 -Words (starting with the most frequent) have been sorted into categories as I saw fit, but some were iffy, and I might not have been consistent. You might have different ideas.
@@ -26,6 +27,7 @@ Analytics, Parsing and Organization of God's Special Book for the Purpose of Und
 --These are useful for segmenting the text into events for a larger semantic view of the text
 
 8. Marvel Annotated Bible
+-From Eliran Wong's excellent UniqueBible (https://github.com/eliranwong/UniqueBible) module
 -The Hebrew and Greek have both been successfully parsed and written out to data files
 --The information in this version includes annotations for more levels of detail than in any other data in this project
 ---For instance, the MAB NT information ("NTWords.csv") includes 3 levels of annotations in addition to normal Greek morphology.
