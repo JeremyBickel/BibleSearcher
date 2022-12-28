@@ -1,5 +1,5 @@
-# BibleSearcher
-Analytics, Parsing and Organization of the God's Special Book for the Purpose of Understanding His Will for Humanity
+# Bible Searcher
+Analytics, Parsing and Organization of God's Special Book for the Purpose of Understanding His Will for Humanity
 
 1. General Parsing
 -Tokenization, Bible References, Counts for each unique word and instance of each word
