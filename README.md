@@ -27,7 +27,7 @@ Analytics, Parsing and Organization of God's Special Book for the Purpose of Und
 --These are useful for segmenting the text into events for a larger semantic view of the text
 
 8. Marvel Annotated Bible
--From Eliran Wong's excellent UniqueBible (https://github.com/eliranwong/UniqueBible) module
+-From a module for Eliran Wong's excellent UniqueBible (https://github.com/eliranwong/UniqueBible)
 -The Hebrew and Greek have both been successfully parsed and written out to data files
 --The information in this version includes annotations for more levels of detail than in any other data in this project
 ---For instance, the MAB NT information ("NTWords.csv") includes 3 levels of annotations in addition to normal Greek morphology.
