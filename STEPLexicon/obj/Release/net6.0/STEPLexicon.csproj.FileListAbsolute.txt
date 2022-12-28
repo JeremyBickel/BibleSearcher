@@ -1,0 +1,12 @@
+Z:\BibleSearcher\STEPLexicon\bin\Release\net6.0\STEPLexicon.deps.json
+Z:\BibleSearcher\STEPLexicon\bin\Release\net6.0\STEPLexicon.dll
+Z:\BibleSearcher\STEPLexicon\bin\Release\net6.0\STEPLexicon.pdb
+Z:\BibleSearcher\STEPLexicon\obj\Release\net6.0\STEPLexicon.csproj.AssemblyReference.cache
+Z:\BibleSearcher\STEPLexicon\obj\Release\net6.0\STEPLexicon.GeneratedMSBuildEditorConfig.editorconfig
+Z:\BibleSearcher\STEPLexicon\obj\Release\net6.0\STEPLexicon.AssemblyInfoInputs.cache
+Z:\BibleSearcher\STEPLexicon\obj\Release\net6.0\STEPLexicon.AssemblyInfo.cs
+Z:\BibleSearcher\STEPLexicon\obj\Release\net6.0\STEPLexicon.csproj.CoreCompileInputs.cache
+Z:\BibleSearcher\STEPLexicon\obj\Release\net6.0\STEPLexicon.dll
+Z:\BibleSearcher\STEPLexicon\obj\Release\net6.0\refint\STEPLexicon.dll
+Z:\BibleSearcher\STEPLexicon\obj\Release\net6.0\STEPLexicon.pdb
+Z:\BibleSearcher\STEPLexicon\obj\Release\net6.0\ref\STEPLexicon.dll

@@ -1,0 +1,307 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "BLBConcordance/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BLBConcordance.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BLBConcordance.dll": {}
+        }
+      },
+      "BLBLexicon/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BLBLexicon.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BLBLexicon.dll": {}
+        }
+      },
+      "Categories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Categories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Categories.dll": {}
+        }
+      },
+      "Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BLBConcordance": "1.0.0",
+          "BLBLexicon": "1.0.0",
+          "Categories": "1.0.0",
+          "KJVStrongs": "1.0.0",
+          "KJVSynonyms": "1.0.0",
+          "MAB": "1.0.0",
+          "Moby": "1.0.0",
+          "Pericope": "1.0.0",
+          "Roget": "1.0.0",
+          "STEPLexicon": "1.0.0",
+          "Synonyms": "1.0.0",
+          "TreasuryOfScriptureKnowledge": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Data.dll": {}
+        }
+      },
+      "KJVStrongs/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BLBLexicon": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/KJVStrongs.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KJVStrongs.dll": {}
+        }
+      },
+      "KJVSynonyms/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/KJVSynonyms.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KJVSynonyms.dll": {}
+        }
+      },
+      "MAB/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MAB.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MAB.dll": {}
+        }
+      },
+      "Moby/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Moby.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Moby.dll": {}
+        }
+      },
+      "Pericope/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "KJVStrongs": "1.0.0",
+          "TreasuryOfScriptureKnowledge": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Pericope.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pericope.dll": {}
+        }
+      },
+      "Roget/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Roget.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Roget.dll": {}
+        }
+      },
+      "STEPLexicon/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/STEPLexicon.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/STEPLexicon.dll": {}
+        }
+      },
+      "Synonyms/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Moby": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Synonyms.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Synonyms.dll": {}
+        }
+      },
+      "TreasuryOfScriptureKnowledge/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TreasuryOfScriptureKnowledge.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TreasuryOfScriptureKnowledge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BLBConcordance/1.0.0": {
+      "type": "project",
+      "path": "../BLBConcordance/BLBConcordance.csproj",
+      "msbuildProject": "../BLBConcordance/BLBConcordance.csproj"
+    },
+    "BLBLexicon/1.0.0": {
+      "type": "project",
+      "path": "../BLBLexicon/BLBLexicon.csproj",
+      "msbuildProject": "../BLBLexicon/BLBLexicon.csproj"
+    },
+    "Categories/1.0.0": {
+      "type": "project",
+      "path": "../Categories/Categories.csproj",
+      "msbuildProject": "../Categories/Categories.csproj"
+    },
+    "Data/1.0.0": {
+      "type": "project",
+      "path": "../Data/Data.csproj",
+      "msbuildProject": "../Data/Data.csproj"
+    },
+    "KJVStrongs/1.0.0": {
+      "type": "project",
+      "path": "../KJVStrongs/KJVStrongs.csproj",
+      "msbuildProject": "../KJVStrongs/KJVStrongs.csproj"
+    },
+    "KJVSynonyms/1.0.0": {
+      "type": "project",
+      "path": "../KJVSynonyms/KJVSynonyms.csproj",
+      "msbuildProject": "../KJVSynonyms/KJVSynonyms.csproj"
+    },
+    "MAB/1.0.0": {
+      "type": "project",
+      "path": "../MAB/MAB.csproj",
+      "msbuildProject": "../MAB/MAB.csproj"
+    },
+    "Moby/1.0.0": {
+      "type": "project",
+      "path": "../Moby/Moby.csproj",
+      "msbuildProject": "../Moby/Moby.csproj"
+    },
+    "Pericope/1.0.0": {
+      "type": "project",
+      "path": "../Pericope/Pericope.csproj",
+      "msbuildProject": "../Pericope/Pericope.csproj"
+    },
+    "Roget/1.0.0": {
+      "type": "project",
+      "path": "../Roget/Roget.csproj",
+      "msbuildProject": "../Roget/Roget.csproj"
+    },
+    "STEPLexicon/1.0.0": {
+      "type": "project",
+      "path": "../STEPLexicon/STEPLexicon.csproj",
+      "msbuildProject": "../STEPLexicon/STEPLexicon.csproj"
+    },
+    "Synonyms/1.0.0": {
+      "type": "project",
+      "path": "../Synonyms/Synonyms.csproj",
+      "msbuildProject": "../Synonyms/Synonyms.csproj"
+    },
+    "TreasuryOfScriptureKnowledge/1.0.0": {
+      "type": "project",
+      "path": "../TreasuryOfScriptureKnowledge/TreasuryOfScriptureKnowledge.csproj",
+      "msbuildProject": "../TreasuryOfScriptureKnowledge/TreasuryOfScriptureKnowledge.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Data >= 1.0.0",
+      "Pericope >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Jeremy\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "Z:\\BibleSearcher\\Bible Searcher\\Bible Searcher.csproj",
+      "projectName": "Bible Searcher",
+      "projectPath": "Z:\\BibleSearcher\\Bible Searcher\\Bible Searcher.csproj",
+      "packagesPath": "C:\\Users\\Jeremy\\.nuget\\packages\\",
+      "outputPath": "Z:\\BibleSearcher\\Bible Searcher\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Jeremy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "Z:\\BibleSearcher\\Data\\Data.csproj": {
+              "projectPath": "Z:\\BibleSearcher\\Data\\Data.csproj"
+            },
+            "Z:\\BibleSearcher\\Pericope\\Pericope.csproj": {
+              "projectPath": "Z:\\BibleSearcher\\Pericope\\Pericope.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

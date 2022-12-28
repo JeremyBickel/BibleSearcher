@@ -1,0 +1,12 @@
+Z:\BibleSearcher\BLBLexicon\bin\Release\net6.0\BLBLexicon.deps.json
+Z:\BibleSearcher\BLBLexicon\bin\Release\net6.0\BLBLexicon.dll
+Z:\BibleSearcher\BLBLexicon\bin\Release\net6.0\BLBLexicon.pdb
+Z:\BibleSearcher\BLBLexicon\obj\Release\net6.0\BLBLexicon.csproj.AssemblyReference.cache
+Z:\BibleSearcher\BLBLexicon\obj\Release\net6.0\BLBLexicon.GeneratedMSBuildEditorConfig.editorconfig
+Z:\BibleSearcher\BLBLexicon\obj\Release\net6.0\BLBLexicon.AssemblyInfoInputs.cache
+Z:\BibleSearcher\BLBLexicon\obj\Release\net6.0\BLBLexicon.AssemblyInfo.cs
+Z:\BibleSearcher\BLBLexicon\obj\Release\net6.0\BLBLexicon.csproj.CoreCompileInputs.cache
+Z:\BibleSearcher\BLBLexicon\obj\Release\net6.0\BLBLexicon.dll
+Z:\BibleSearcher\BLBLexicon\obj\Release\net6.0\refint\BLBLexicon.dll
+Z:\BibleSearcher\BLBLexicon\obj\Release\net6.0\BLBLexicon.pdb
+Z:\BibleSearcher\BLBLexicon\obj\Release\net6.0\ref\BLBLexicon.dll

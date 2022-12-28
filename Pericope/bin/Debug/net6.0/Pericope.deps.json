@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Pericope/1.0.0": {
+        "dependencies": {
+          "KJVStrongs": "1.0.0",
+          "TreasuryOfScriptureKnowledge": "1.0.0"
+        },
+        "runtime": {
+          "Pericope.dll": {}
+        }
+      },
+      "BLBLexicon/1.0.0": {
+        "runtime": {
+          "BLBLexicon.dll": {}
+        }
+      },
+      "KJVStrongs/1.0.0": {
+        "dependencies": {
+          "BLBLexicon": "1.0.0"
+        },
+        "runtime": {
+          "KJVStrongs.dll": {}
+        }
+      },
+      "TreasuryOfScriptureKnowledge/1.0.0": {
+        "runtime": {
+          "TreasuryOfScriptureKnowledge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pericope/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BLBLexicon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KJVStrongs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TreasuryOfScriptureKnowledge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

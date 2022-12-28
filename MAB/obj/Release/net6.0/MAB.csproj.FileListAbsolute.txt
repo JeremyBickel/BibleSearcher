@@ -1,0 +1,12 @@
+Z:\BibleSearcher\MAB\bin\Release\net6.0\MAB.deps.json
+Z:\BibleSearcher\MAB\bin\Release\net6.0\MAB.dll
+Z:\BibleSearcher\MAB\bin\Release\net6.0\MAB.pdb
+Z:\BibleSearcher\MAB\obj\Release\net6.0\MAB.csproj.AssemblyReference.cache
+Z:\BibleSearcher\MAB\obj\Release\net6.0\MAB.GeneratedMSBuildEditorConfig.editorconfig
+Z:\BibleSearcher\MAB\obj\Release\net6.0\MAB.AssemblyInfoInputs.cache
+Z:\BibleSearcher\MAB\obj\Release\net6.0\MAB.AssemblyInfo.cs
+Z:\BibleSearcher\MAB\obj\Release\net6.0\MAB.csproj.CoreCompileInputs.cache
+Z:\BibleSearcher\MAB\obj\Release\net6.0\MAB.dll
+Z:\BibleSearcher\MAB\obj\Release\net6.0\refint\MAB.dll
+Z:\BibleSearcher\MAB\obj\Release\net6.0\MAB.pdb
+Z:\BibleSearcher\MAB\obj\Release\net6.0\ref\MAB.dll

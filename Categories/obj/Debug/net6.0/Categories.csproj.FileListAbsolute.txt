@@ -1,0 +1,12 @@
+Z:\BibleSearcher\Categories\bin\Debug\net6.0\Categories.deps.json
+Z:\BibleSearcher\Categories\bin\Debug\net6.0\Categories.dll
+Z:\BibleSearcher\Categories\bin\Debug\net6.0\Categories.pdb
+Z:\BibleSearcher\Categories\obj\Debug\net6.0\Categories.csproj.AssemblyReference.cache
+Z:\BibleSearcher\Categories\obj\Debug\net6.0\Categories.GeneratedMSBuildEditorConfig.editorconfig
+Z:\BibleSearcher\Categories\obj\Debug\net6.0\Categories.AssemblyInfoInputs.cache
+Z:\BibleSearcher\Categories\obj\Debug\net6.0\Categories.AssemblyInfo.cs
+Z:\BibleSearcher\Categories\obj\Debug\net6.0\Categories.csproj.CoreCompileInputs.cache
+Z:\BibleSearcher\Categories\obj\Debug\net6.0\Categories.dll
+Z:\BibleSearcher\Categories\obj\Debug\net6.0\refint\Categories.dll
+Z:\BibleSearcher\Categories\obj\Debug\net6.0\Categories.pdb
+Z:\BibleSearcher\Categories\obj\Debug\net6.0\ref\Categories.dll

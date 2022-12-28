@@ -1,0 +1,12 @@
+Z:\BibleSearcher\Moby\bin\Release\net6.0\Moby.deps.json
+Z:\BibleSearcher\Moby\bin\Release\net6.0\Moby.dll
+Z:\BibleSearcher\Moby\bin\Release\net6.0\Moby.pdb
+Z:\BibleSearcher\Moby\obj\Release\net6.0\Moby.csproj.AssemblyReference.cache
+Z:\BibleSearcher\Moby\obj\Release\net6.0\Moby.GeneratedMSBuildEditorConfig.editorconfig
+Z:\BibleSearcher\Moby\obj\Release\net6.0\Moby.AssemblyInfoInputs.cache
+Z:\BibleSearcher\Moby\obj\Release\net6.0\Moby.AssemblyInfo.cs
+Z:\BibleSearcher\Moby\obj\Release\net6.0\Moby.csproj.CoreCompileInputs.cache
+Z:\BibleSearcher\Moby\obj\Release\net6.0\Moby.dll
+Z:\BibleSearcher\Moby\obj\Release\net6.0\refint\Moby.dll
+Z:\BibleSearcher\Moby\obj\Release\net6.0\Moby.pdb
+Z:\BibleSearcher\Moby\obj\Release\net6.0\ref\Moby.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KJVStrongs/1.0.0": {
+        "dependencies": {
+          "BLBLexicon": "1.0.0"
+        },
+        "runtime": {
+          "KJVStrongs.dll": {}
+        }
+      },
+      "BLBLexicon/1.0.0": {
+        "runtime": {
+          "BLBLexicon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KJVStrongs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BLBLexicon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

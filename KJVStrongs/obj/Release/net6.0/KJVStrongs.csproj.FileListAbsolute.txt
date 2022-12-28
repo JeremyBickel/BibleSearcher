@@ -1,0 +1,15 @@
+Z:\BibleSearcher\KJVStrongs\bin\Release\net6.0\KJVStrongs.deps.json
+Z:\BibleSearcher\KJVStrongs\bin\Release\net6.0\KJVStrongs.dll
+Z:\BibleSearcher\KJVStrongs\bin\Release\net6.0\KJVStrongs.pdb
+Z:\BibleSearcher\KJVStrongs\bin\Release\net6.0\BLBLexicon.dll
+Z:\BibleSearcher\KJVStrongs\bin\Release\net6.0\BLBLexicon.pdb
+Z:\BibleSearcher\KJVStrongs\obj\Release\net6.0\KJVStrongs.csproj.AssemblyReference.cache
+Z:\BibleSearcher\KJVStrongs\obj\Release\net6.0\KJVStrongs.GeneratedMSBuildEditorConfig.editorconfig
+Z:\BibleSearcher\KJVStrongs\obj\Release\net6.0\KJVStrongs.AssemblyInfoInputs.cache
+Z:\BibleSearcher\KJVStrongs\obj\Release\net6.0\KJVStrongs.AssemblyInfo.cs
+Z:\BibleSearcher\KJVStrongs\obj\Release\net6.0\KJVStrongs.csproj.CoreCompileInputs.cache
+Z:\BibleSearcher\KJVStrongs\obj\Release\net6.0\KJVStrongs.csproj.CopyComplete
+Z:\BibleSearcher\KJVStrongs\obj\Release\net6.0\KJVStrongs.dll
+Z:\BibleSearcher\KJVStrongs\obj\Release\net6.0\refint\KJVStrongs.dll
+Z:\BibleSearcher\KJVStrongs\obj\Release\net6.0\KJVStrongs.pdb
+Z:\BibleSearcher\KJVStrongs\obj\Release\net6.0\ref\KJVStrongs.dll

@@ -1,0 +1,12 @@
+Z:\BibleSearcher\BLBConcordance\bin\Release\net6.0\BLBConcordance.deps.json
+Z:\BibleSearcher\BLBConcordance\bin\Release\net6.0\BLBConcordance.dll
+Z:\BibleSearcher\BLBConcordance\bin\Release\net6.0\BLBConcordance.pdb
+Z:\BibleSearcher\BLBConcordance\obj\Release\net6.0\BLBConcordance.csproj.AssemblyReference.cache
+Z:\BibleSearcher\BLBConcordance\obj\Release\net6.0\BLBConcordance.GeneratedMSBuildEditorConfig.editorconfig
+Z:\BibleSearcher\BLBConcordance\obj\Release\net6.0\BLBConcordance.AssemblyInfoInputs.cache
+Z:\BibleSearcher\BLBConcordance\obj\Release\net6.0\BLBConcordance.AssemblyInfo.cs
+Z:\BibleSearcher\BLBConcordance\obj\Release\net6.0\BLBConcordance.csproj.CoreCompileInputs.cache
+Z:\BibleSearcher\BLBConcordance\obj\Release\net6.0\BLBConcordance.dll
+Z:\BibleSearcher\BLBConcordance\obj\Release\net6.0\refint\BLBConcordance.dll
+Z:\BibleSearcher\BLBConcordance\obj\Release\net6.0\BLBConcordance.pdb
+Z:\BibleSearcher\BLBConcordance\obj\Release\net6.0\ref\BLBConcordance.dll

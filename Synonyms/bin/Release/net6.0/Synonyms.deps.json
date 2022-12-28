@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Synonyms/1.0.0": {
+        "dependencies": {
+          "Moby": "1.0.0"
+        },
+        "runtime": {
+          "Synonyms.dll": {}
+        }
+      },
+      "Moby/1.0.0": {
+        "runtime": {
+          "Moby.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Synonyms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Moby/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

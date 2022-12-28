@@ -1,0 +1,156 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Data/1.0.0": {
+        "dependencies": {
+          "BLBConcordance": "1.0.0",
+          "BLBLexicon": "1.0.0",
+          "KJVStrongs": "1.0.0",
+          "KJVSynonyms": "1.0.0",
+          "MAB": "1.0.0",
+          "Moby": "1.0.0",
+          "Pericope": "1.0.0",
+          "Roget": "1.0.0",
+          "STEPLexicon": "1.0.0",
+          "Synonyms": "1.0.0",
+          "TreasuryOfScriptureKnowledge": "1.0.0"
+        },
+        "runtime": {
+          "Data.dll": {}
+        }
+      },
+      "BLBConcordance/1.0.0": {
+        "runtime": {
+          "BLBConcordance.dll": {}
+        }
+      },
+      "BLBLexicon/1.0.0": {
+        "runtime": {
+          "BLBLexicon.dll": {}
+        }
+      },
+      "KJVStrongs/1.0.0": {
+        "dependencies": {
+          "BLBLexicon": "1.0.0"
+        },
+        "runtime": {
+          "KJVStrongs.dll": {}
+        }
+      },
+      "KJVSynonyms/1.0.0": {
+        "runtime": {
+          "KJVSynonyms.dll": {}
+        }
+      },
+      "MAB/1.0.0": {
+        "runtime": {
+          "MAB.dll": {}
+        }
+      },
+      "Moby/1.0.0": {
+        "runtime": {
+          "Moby.dll": {}
+        }
+      },
+      "Pericope/1.0.0": {
+        "dependencies": {
+          "KJVStrongs": "1.0.0",
+          "TreasuryOfScriptureKnowledge": "1.0.0"
+        },
+        "runtime": {
+          "Pericope.dll": {}
+        }
+      },
+      "Roget/1.0.0": {
+        "runtime": {
+          "Roget.dll": {}
+        }
+      },
+      "STEPLexicon/1.0.0": {
+        "runtime": {
+          "STEPLexicon.dll": {}
+        }
+      },
+      "Synonyms/1.0.0": {
+        "dependencies": {
+          "Moby": "1.0.0"
+        },
+        "runtime": {
+          "Synonyms.dll": {}
+        }
+      },
+      "TreasuryOfScriptureKnowledge/1.0.0": {
+        "runtime": {
+          "TreasuryOfScriptureKnowledge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BLBConcordance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BLBLexicon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KJVStrongs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KJVSynonyms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MAB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Moby/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pericope/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Roget/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "STEPLexicon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Synonyms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TreasuryOfScriptureKnowledge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

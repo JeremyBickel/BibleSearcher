@@ -1,0 +1,15 @@
+Z:\BibleSearcher\Synonyms\bin\Release\net6.0\Synonyms.deps.json
+Z:\BibleSearcher\Synonyms\bin\Release\net6.0\Synonyms.dll
+Z:\BibleSearcher\Synonyms\bin\Release\net6.0\Synonyms.pdb
+Z:\BibleSearcher\Synonyms\bin\Release\net6.0\Moby.dll
+Z:\BibleSearcher\Synonyms\bin\Release\net6.0\Moby.pdb
+Z:\BibleSearcher\Synonyms\obj\Release\net6.0\Synonyms.csproj.AssemblyReference.cache
+Z:\BibleSearcher\Synonyms\obj\Release\net6.0\Synonyms.GeneratedMSBuildEditorConfig.editorconfig
+Z:\BibleSearcher\Synonyms\obj\Release\net6.0\Synonyms.AssemblyInfoInputs.cache
+Z:\BibleSearcher\Synonyms\obj\Release\net6.0\Synonyms.AssemblyInfo.cs
+Z:\BibleSearcher\Synonyms\obj\Release\net6.0\Synonyms.csproj.CoreCompileInputs.cache
+Z:\BibleSearcher\Synonyms\obj\Release\net6.0\Synonyms.csproj.CopyComplete
+Z:\BibleSearcher\Synonyms\obj\Release\net6.0\Synonyms.dll
+Z:\BibleSearcher\Synonyms\obj\Release\net6.0\refint\Synonyms.dll
+Z:\BibleSearcher\Synonyms\obj\Release\net6.0\Synonyms.pdb
+Z:\BibleSearcher\Synonyms\obj\Release\net6.0\ref\Synonyms.dll

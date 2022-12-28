@@ -1,0 +1,12 @@
+Z:\BibleSearcher\KJVSynonyms\bin\Debug\net6.0\KJVSynonyms.deps.json
+Z:\BibleSearcher\KJVSynonyms\bin\Debug\net6.0\KJVSynonyms.dll
+Z:\BibleSearcher\KJVSynonyms\bin\Debug\net6.0\KJVSynonyms.pdb
+Z:\BibleSearcher\KJVSynonyms\obj\Debug\net6.0\KJVSynonyms.csproj.AssemblyReference.cache
+Z:\BibleSearcher\KJVSynonyms\obj\Debug\net6.0\KJVSynonyms.GeneratedMSBuildEditorConfig.editorconfig
+Z:\BibleSearcher\KJVSynonyms\obj\Debug\net6.0\KJVSynonyms.AssemblyInfoInputs.cache
+Z:\BibleSearcher\KJVSynonyms\obj\Debug\net6.0\KJVSynonyms.AssemblyInfo.cs
+Z:\BibleSearcher\KJVSynonyms\obj\Debug\net6.0\KJVSynonyms.csproj.CoreCompileInputs.cache
+Z:\BibleSearcher\KJVSynonyms\obj\Debug\net6.0\KJVSynonyms.dll
+Z:\BibleSearcher\KJVSynonyms\obj\Debug\net6.0\refint\KJVSynonyms.dll
+Z:\BibleSearcher\KJVSynonyms\obj\Debug\net6.0\KJVSynonyms.pdb
+Z:\BibleSearcher\KJVSynonyms\obj\Debug\net6.0\ref\KJVSynonyms.dll

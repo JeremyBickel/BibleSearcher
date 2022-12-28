@@ -1,0 +1,12 @@
+Z:\BibleSearcher\Roget\bin\Release\net6.0\Roget.deps.json
+Z:\BibleSearcher\Roget\bin\Release\net6.0\Roget.dll
+Z:\BibleSearcher\Roget\bin\Release\net6.0\Roget.pdb
+Z:\BibleSearcher\Roget\obj\Release\net6.0\Roget.csproj.AssemblyReference.cache
+Z:\BibleSearcher\Roget\obj\Release\net6.0\Roget.GeneratedMSBuildEditorConfig.editorconfig
+Z:\BibleSearcher\Roget\obj\Release\net6.0\Roget.AssemblyInfoInputs.cache
+Z:\BibleSearcher\Roget\obj\Release\net6.0\Roget.AssemblyInfo.cs
+Z:\BibleSearcher\Roget\obj\Release\net6.0\Roget.csproj.CoreCompileInputs.cache
+Z:\BibleSearcher\Roget\obj\Release\net6.0\Roget.dll
+Z:\BibleSearcher\Roget\obj\Release\net6.0\refint\Roget.dll
+Z:\BibleSearcher\Roget\obj\Release\net6.0\Roget.pdb
+Z:\BibleSearcher\Roget\obj\Release\net6.0\ref\Roget.dll
