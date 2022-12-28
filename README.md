@@ -1,4 +1,4 @@
-# Bible Searcher
+# Bible Searcher in C#
 Analytics, Parsing and Organization of God's Special Book for the Purpose of Understanding His Will for Humanity
 
 1. General Parsing
